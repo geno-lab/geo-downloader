@@ -1,0 +1,19 @@
+{
+  "gse_ids": [
+    "GSE42861",
+    "GSE49064",
+    "GSE50498",
+    "GSE51954",
+    "GSE52068"
+  ],
+  "output_dir": "downloads",
+  "parallel": true,
+  "workers": 4,
+  "delay": 0.4,
+  "chunk_size": 32768,
+  "max_retries": 3,
+  "retry_delay": 2.0,
+  "verify_integrity": true,
+  "force": false,
+  "pattern": "!Platform_series_id"
+}

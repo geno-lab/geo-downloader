@@ -1,0 +1,6 @@
+# Core dependencies
+requests>=2.32.4
+urllib3>=2.5.0
+
+# Optional dependencies for improved performance
+tqdm>=4.67.1
